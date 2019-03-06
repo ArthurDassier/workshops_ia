@@ -1,1 +1,1 @@
-# workshop_ia
+# workshops_ia
